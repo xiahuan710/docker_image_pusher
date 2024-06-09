@@ -1,1 +1,13 @@
 alpine
+xiaohuai/dnmp-php83:8.3.1
+xiaohuai/dnmp-php82:8.2.13
+xiaohuai/dnmp-php81:8.1.26
+xiaohuai/dnmp-php80:8.0.30
+xiaohuai/dnmp-php74:7.4.33
+xiaohuai/dnmp-php56:5.6.40
+xiaohuai/portainer-zh:2.19.0
+xiaohuai/dnmp-tengine:3.1.0-alpine
+xiaohuai/tengine:3.1.0-alpine
+xiaohuai/dnmp-nginx:1.24.0
+xiaohuai/memcached:1.6.22-alpine
+
