@@ -2,6 +2,9 @@ php:8.3.8-fpm-alpine
 php:8.2.20-fpm-alpine
 php:8.1.29-fpm-alpine
 alpine
+axizdkr/tengine:latest
+axizdkr/tengine:alpine
+axizdkr/tengine:3.1.0
 xiaohuai/dnmp-php83:8.3.1
 xiaohuai/dnmp-php82:8.2.13
 xiaohuai/dnmp-php81:8.1.26
