@@ -17,5 +17,5 @@ xiaohuai/tengine:3.1.0-alpine
 xiaohuai/dnmp-nginx:1.24.0
 xiaohuai/memcached:1.6.22-alpine
 6053537/portainer-ce:latest
-luodaoyi/kms-server:latest
+lightnear/kms:latest
 
